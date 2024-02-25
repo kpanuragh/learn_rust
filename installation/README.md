@@ -29,7 +29,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.dev | sh
 
 **Windows:**
 
-1.  Download the Rustup installer for Windows from  [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
+1.  Download the Rustup installer for Windows from  [https://learn.microsoft.com/en-us/windows/dev-environment/rust/setup](https://learn.microsoft.com/en-us/windows/dev-environment/rust/setup).
 2.  Run the installer and follow the on-screen instructions.
 
 **2. Using system package managers (Linux only):**
