@@ -14,7 +14,7 @@ Rust is a versatile, modern programming language known for its speed, safety, an
 
 We highly recommend using the Rustup installer, as it provides a convenient way to manage multiple Rust toolchains and keep them up-to-date.
 
-**Linux:**
+**Linux/macOs:**
 
 1.  Open a terminal and run:
 
@@ -30,11 +30,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.dev | sh
 **Windows:**
 
 1.  Download the Rustup installer for Windows from  [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
-2.  Run the installer and follow the on-screen instructions.
-
-**macOS:**
-
-1.  Download the Rustup installer for macOS from  [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install).
 2.  Run the installer and follow the on-screen instructions.
 
 **2. Using system package managers (Linux only):**
