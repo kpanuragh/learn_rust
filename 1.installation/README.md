@@ -1,4 +1,4 @@
-**Installing Rust**
+## Installing Rust
 
 Rust is a versatile, modern programming language known for its speed, safety, and memory efficiency. This Readme provides instructions for installing Rust on various operating systems:
 

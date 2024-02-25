@@ -1,4 +1,4 @@
-**Setting Up Rust Development Environments**
+## Setting Up Rust Development Environments
 
 This Readme guides you through installing and configuring Rust development environments in popular IDEs:
 

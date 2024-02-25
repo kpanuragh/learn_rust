@@ -1,5 +1,4 @@
-##   
-Hello, World! in Rust
+##   Hello, World! in Rust
 
 This file demonstrates the classic "Hello, World!" program written in Rust and explains its functionality step-by-step.
 
