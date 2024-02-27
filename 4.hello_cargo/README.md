@@ -14,7 +14,6 @@ This Readme guides you through creating your first Rust project using Cargo, the
 
 Open your terminal and navigate to the desired directory for your project. Then, run the following command:
 
-Bash
 
 ```
 cargo new hello_cargo
@@ -42,7 +41,6 @@ Open the `hello_cargo` directory and you'll see the following files:
 
 Open `src/main.rs` and replace the existing content with the following code:
 
-Rust
 
 ```
 fn main() {
@@ -57,7 +55,6 @@ This code defines the `main` function that prints "Hello, Cargo!" to the console
 
 Run the following command in your terminal from within the `hello_cargo` directory:
 
-Bash
 
 ```
 cargo run

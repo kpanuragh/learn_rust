@@ -18,7 +18,6 @@ We highly recommend using the Rustup installer, as it provides a convenient way 
 
 1.  Open a terminal and run:
 
-Bash
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.dev | sh
@@ -36,7 +35,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.dev | sh
 
 Many Linux distributions provide Rust packages through their package managers. This method is less flexible but may be suitable for quick installations.
 
-Bash
 
 ```
 # Debian/Ubuntu
@@ -57,7 +55,6 @@ Consult your distribution's documentation for specific package names and install
 
 After installation, open a terminal or command prompt and run:
 
-Bash
 
 ```
 rustc --version

@@ -4,7 +4,6 @@ This file demonstrates the classic "Hello, World!" program written in Rust and e
 
 **Code:**
 
-Rust
 
 ```
 fn main() {
@@ -30,7 +29,6 @@ fn main() {
     
 4.  **Run the following command to compile the code:**
     
-    Bash
     
     ```
     rustc hello_world.rs
@@ -42,7 +40,6 @@ fn main() {
     
 5.  **Run the compiled program:**
     
-    Bash
     
     ```
     ./hello_world
