@@ -5,6 +5,25 @@ fn main() {
     } else {
         println!("x is not five :(");
     }
+    println!("Match instead of multiple if else");
+    enum Day {
+        Monday,
+        Tuesday,
+        Wednesday,
+        Thursday,
+        Friday,
+        Saturday,
+        Sunday,
+    }
+    let day = Day::Friday;
+    match day {
+        Day::Monday => println!("Start of the work week."),
+        Day::Tuesday => println!("Second day of the work week."),
+        Day::Wednesday => println!("Midweek."),
+        Day::Thursday => println!("Almost there."),
+        Day::Friday => println!("End of the work week."),
+        Day::Saturday | Day::Sunday => println!("Weekend! Time to relax."),
+    }
     println!("For loop example:");
     for x in 1..10 { //1...10 is range of 1 to 9 
         println!("{}", x);
